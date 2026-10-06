@@ -37,7 +37,8 @@ I work across product design and full-stack development, shaping digital product
   <strong>Design</strong> — Figma, Framer Motion, Tailwind CSS<br/>
   <strong>Frontend</strong> — Next.js, React, TypeScript<br/>
   <strong>Backend</strong> — FastAPI, Node.js, Express.js<br/>
-  <strong>Data & Cloud</strong> — PostgreSQL, MySQL, MongoDB, Firebase, Vercel, Git, Github
+  <strong>Data & Cloud</strong> — PostgreSQL, MySQL, MongoDB, Firebase, Vercel<br/>
+  <strong>Tools</strong> - Git, Github, Postman
 </p>
 
 ## Contact
